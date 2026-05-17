@@ -1,10 +1,10 @@
-سرعة عالية PIA عميل | دعم OpenVPN + دعم IKEv2 هو أفضل PIA عميل مع دعم OpenVPN و دعم IKEv2. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/private-internet-a-xy33/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
